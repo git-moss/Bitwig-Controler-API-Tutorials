@@ -71,5 +71,5 @@ function flush()
 
 function exit()
 {
-   println("BindingTest exited!");
+   println("Exited!");
 }
